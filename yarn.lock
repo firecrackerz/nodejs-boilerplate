@@ -318,7 +318,7 @@
   dependencies:
     safe-buffer "^5.1.2"
 
-"@types/agenda@^2.0.4":
+"@types/agenda@2.0.4":
   version "2.0.4"
   resolved "https://registry.yarnpkg.com/@types/agenda/-/agenda-2.0.4.tgz#94f43a9b6022fde8a87209bad2475a90029a42ca"
   integrity sha512-iOAt0JjmfD0APkGSfIjh/wD909kUW6WDhB5irGIIqHYih4znbiHtgCzXHKi219QFVdF6KeNhVA7N1yTd9a0CtA==
@@ -3880,7 +3880,7 @@ prepend-http@^1.0.1:
   resolved "https://registry.yarnpkg.com/prepend-http/-/prepend-http-1.0.4.tgz#d4f4562b0ce3696e41ac52d0e002e57a635dc6dc"
   integrity sha1-1PRWKwzjaW5BrFLQ4ALlemNdxtw=
 
-prettier@^1.17.1:
+prettier@1.17.1:
   version "1.17.1"
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-1.17.1.tgz#ed64b4e93e370cb8a25b9ef7fef3e4fd1c0995db"
   integrity sha512-TzGRNvuUSmPgwivDqkZ9tM/qTGW9hqDKWOE9YHiyQdixlKbv7kvEqsmDPrcHJTKwthU774TQwZXVtaQ/mMsvjg==
